@@ -1,0 +1,2 @@
+# spreadstore
+eCommerce for WideSpread
